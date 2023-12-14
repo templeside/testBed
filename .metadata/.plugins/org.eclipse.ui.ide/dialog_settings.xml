@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Jhon\Desktop\cogent\springActuatorExample"/>
+			<item value="C:\Users\Jhon\Desktop\cogent\SpringbootSecurity"/>
+			<item value="C:\Users\Jhon\Desktop\cogent\springboot3-security"/>
+			<item value="C:\Users\Jhon\Desktop\cogent\lambda-helloworld\src\main\resources"/>
+			<item value="C:\Users\Jhon\Desktop\cogent\ztemp\src\ztemp"/>
+			<item value="C:\Users\Jhon\Desktop\cogent"/>
+			<item value="C:\Users\Jhon\Desktop\cogent\UniBiDirectionalMappingManyToMany"/>
+			<item value="C:\Users\Jhon\Desktop\cogent\UniBiDirectionalMappingManyToOne"/>
+			<item value="C:\Users\Jhon\Downloads\UniBiDirectionalMapping (1)\UniBiDirectionalMapping"/>
+			<item value="C:\Users\Jhon\Desktop\cogent\UniBiDirectionalMapping-ORM1"/>
+			<item value="C:\Users\Jhon\Desktop\cogent\UniBiDirectionalMapping"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item key="OUTSIDE_LOCATION" value="C:\Users\Jhon\Desktop\cogent"/>
+	</section>
+	<section name="CleanDialogSettings">
+		<item key="TOGGLE_SELECTED" value="false"/>
+		<item key="DIALOG_WIDTH" value="500"/>
+		<item key="DIALOG_HEIGHT" value="389"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+</section>

@@ -1,0 +1,15 @@
+package ztemp1;
+
+import java.util.Arrays;
+import java.util.List;
+
+public class methodReference {
+
+	public static void main(String[] args) {
+		List<String> strings = Arrays.asList("a", "b", "c");
+		strings.forEach(s-> System.out.print(s));
+		
+		System.out.println("");
+		strings.forEach(System.out::print);
+	}
+}

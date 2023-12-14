@@ -1,0 +1,9 @@
+INDEX VERSION 1.134
+C:\Users\Jhon\Desktop\cogent\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4102716061.index
+\JSTL_Core\src\main\java
+C:\Users\Jhon\Desktop\cogent\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2130973501.index
+\firstWeb-Servlet\src\main\java
+C:\Users\Jhon\Desktop\cogent\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1315380761.index
+\SessionDemo2\src\main\java
+C:\Users\Jhon\Desktop\cogent\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1811981655.index
+\SessionDemo_usingJSP\src\main\java

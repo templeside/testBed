@@ -1,0 +1,9 @@
+package methodreferences;
+
+public class MethodReferences {
+
+	public static void main(String[] args) {
+		CustomerDB.getAllCustomer().stream().forEach(e-> System.out.println(e));
+		CustomerDB.getAllCustomer().stream().forEach(System.out::println);
+	}
+}

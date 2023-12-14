@@ -1,0 +1,5 @@
+package com.javapoint.springActuatorExample.controller;
+
+public class DemoRestController {
+
+}

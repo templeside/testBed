@@ -1,0 +1,14 @@
+package builder;
+
+public class PhoneBuilder {
+	private String os;
+	private String processor;
+	private double screenSize;
+	private int battery;
+	private int camera;
+	
+	public PhoneBuilder setOs(String os) {
+		this.os = os;
+		return this;
+	}
+}

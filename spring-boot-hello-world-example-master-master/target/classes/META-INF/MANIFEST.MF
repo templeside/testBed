@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Jhon
+Build-Jdk: 17.0.8.1
+Implementation-Title: spring-boot-hello-world-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.demo.springboot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-he
+ llo-world-example/
+Created-By: Maven Integration for Eclipse
+

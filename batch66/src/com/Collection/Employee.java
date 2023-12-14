@@ -1,0 +1,73 @@
+package com.Collection;
+
+import java.util.Objects;
+
+public class Employee {
+	private Integer id;
+	private String name;
+		
+	public Employee() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public Employee(Integer id, String name) {
+		super();
+		this.id = id;
+		this.name = name;
+	}
+
+	public Integer getId() {
+		return id;
+	}
+
+	public void setId(Integer id) {
+		this.id = id;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	@Override
+	public String toString() {
+		return "Employee [id=" + id + ", name=" + name + "]";
+	}
+
+//	@Override	//없을땐, hash algorithm 잘 안돔.
+//	public int hashCode() {
+//		return Objects.hash(id, name);
+//	}
+//
+//	@Override //없을땐, hash algorithm 잘 안돔.
+//	public boolean equals(Object obj) {
+//		if (this == obj)
+//			return true;
+//		if (obj == null)
+//			return false;
+//		if (getClass() != obj.getClass())
+//			return false;
+//		Employee other = (Employee) obj;
+//		return Objects.equals(id, other.id) && Objects.equals(name, other.name);
+//	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

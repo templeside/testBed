@@ -1,0 +1,34 @@
+package methodreferences;
+
+import java.util.List;
+import java.util.stream.Collectors;
+
+public class MethodReferences {
+
+	public static void main(String[] args) {
+//		CustomerDB.getAllCustomer().stream().forEach(e-> System.out.println(e));
+//		System.out.println("------------------------------------");
+//		CustomerDB.getAllCustomer().stream().forEach(System.out::println);
+//		MethodReferences methodReferences = new MethodReferences();
+//		System.out.println("------------------------------------");
+//		CustomerDB.getAllCustomer().stream().forEach(methodReferences::display);
+		
+		// 케이스 
+		List<CustomerBO> customers = CustomerDB.getAllCustomer().stream()
+				.map(e-> CustomerMapper.convert(e)).collect(Collectors.toList());
+		System.out.println(customers);
+		
+		List<CustomerBO> customers1 = CustomerDB.getAllCustomer().stream()
+				.map(CustomerMapper::convert).collect(Collectors.toList());
+		System.out.println(customers1);
+		
+		CustomerMapper cm = new CustomerMapper();
+		
+		List<CustomerBO> customers2 = CustomerDB.getAllCustomer().stream().map(cm::convert1).collect(Collectors.toList());
+		
+		System.out.println(customers2);
+	}
+	public void display(Customer customer) {
+		System.out.println(customer);
+	}
+}

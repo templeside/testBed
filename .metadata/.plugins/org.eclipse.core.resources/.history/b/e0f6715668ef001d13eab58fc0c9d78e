@@ -1,0 +1,21 @@
+package StreamExample;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.Map;
+
+public class itemExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List<Item> items = Arrays.asList(
+				new Item("rice",3,123)
+				,new Item("laptop",2,500)
+				,new Item("apple", 3, 2213)
+				,new Item("rice",2,333)
+			);
+		
+		Map<String, Integer> frequency = items.stream().collect()
+	}
+
+}

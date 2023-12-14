@@ -1,0 +1,10 @@
+package ztemp1;
+
+public class rotateMatrix {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

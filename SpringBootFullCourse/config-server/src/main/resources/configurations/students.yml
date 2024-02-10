@@ -1,0 +1,28 @@
+#set Eureka discovery client
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+#서버 포트는 8090.
+server:
+  port: 8090
+  
+#spring properties
+spring:
+  application:
+    name: students
+  datasource:            #데이터베이스는 postgresql. databse connection related
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/students
+    username: postgres
+    password: 1234
+    
+  jpa:            #  JPA enable
+    hibernate:
+      ddl-auto: create
+    database: postgresql
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+   

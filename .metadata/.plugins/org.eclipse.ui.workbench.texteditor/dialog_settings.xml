@@ -6,23 +6,23 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="getUsername"/>
+		<item key="selection" value="starter"/>
 		<list key="findhistory">
+			<item value="starter"/>
+			<item value="cloudgatway"/>
+			<item value="lombok"/>
+			<item value="UserRepository "/>
+			<item value="actuator"/>
+			<item value="boot"/>
+			<item value="dev"/>
+			<item value="devtools"/>
+			<item value="jpa"/>
 			<item value="get"/>
 			<item value="getUsername"/>
 			<item value="json"/>
 			<item value="thenapply"/>
 			<item value="log4j"/>
 			<item value="restTemplate"/>
-			<item value="category"/>
-			<item value="userservice"/>
-			<item value="BASEURL"/>
-			<item value="getAllAvailableProducts"/>
-			<item value="consumeStringMessage"/>
-			<item value="LISTEN"/>
-			<item value="kafkali"/>
-			<item value="currency-exchange"/>
-			<item value="requestbody"/>
 		</list>
 		<list key="replacehistory">
 		</list>

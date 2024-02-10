@@ -1,5 +1,0 @@
-package com.SpringbootSecurity.controller;
-
-public class WelcomeController {
-
-}

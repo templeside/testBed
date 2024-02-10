@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Welcome!</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Your Personal Greeting!</h1>
+    <p>Tell us about yourself and we'll personalize a message just for you.</p>
+  </header>
+
+  <main>
+    <form id="greeting-form">
+      <label for="name">Your Name:</label>
+      <input type="text" id="name" name="name" placeholder="Enter your name" required>
+
+      <label for="color">Favorite Color:</label>
+      <select id="color" name="color" required>
+        <option value="">Select your favorite color</option>
+        <option value="red">Red</option>
+        <option value="orange">Orange</option>
+        <option value="yellow">Yellow</option>
+        <option value="green">Green</option>
+        <option value="blue">Blue</option>
+        <option value="purple">Purple</option>
+      </select>
+
+      <button type="submit">Submit</button>
+    </form>
+
+    <p id="greeting-message"></p>
+  </main>
+
+  <footer>
+    <p>&copy; Chanwoong</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

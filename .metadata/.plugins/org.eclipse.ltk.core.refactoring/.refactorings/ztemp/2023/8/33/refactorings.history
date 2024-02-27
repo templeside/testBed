@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;ztemp.Temp&apos; to &apos;Sort_colors&apos;&#x0D;&#x0A;- Original project: &apos;ztemp&apos;&#x0D;&#x0A;- Original element: &apos;ztemp.Temp&apos;&#x0D;&#x0A;- Renamed element: &apos;ztemp.Sort_colors&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Temp&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ztemp{Temp.java[Temp" matchStrategy="1" name="Sort_colors" qualified="false" references="true" similarDeclarations="false" stamp="1692376262236" textual="false" version="1.0"/>
-</session>

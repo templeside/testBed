@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;session&apos; in &apos;test.UpdateEmployee.main(...)&apos; to &apos;s&apos;&#x0D;&#x0A;- Original project: &apos;UniBiDirectionalMapping&apos;&#x0D;&#x0A;- Original element: &apos;test.UpdateEmployee.main(String[]).session&apos;&#x0D;&#x0A;- Renamed element: &apos;session&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;session&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;test{UpdateEmployee.java[UpdateEmployee~main~\[QString;@session!742!776!750!756!QSession;!0!false" name="s" references="true" stamp="1684521837440" version="1.0"/>
-</session>

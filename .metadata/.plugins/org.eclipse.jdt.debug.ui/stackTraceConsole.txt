@@ -1,9 +1,0 @@
-@GetMapping("/fetchById/{id}")
-	public ResponseEntity<Customer> fetchById(@PathVariable Integer id) throws UserNotFoundException{
-		
-		return ResponseEntity.ok(customerService.findById(id));
-    }
-
-
-
-

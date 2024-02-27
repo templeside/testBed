@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;ztemp&apos; to &apos;OnlineAssessment&apos;" description="Rename resource &apos;ztemp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/ztemp" name="OnlineAssessment" stamp="1694097206264" updateReferences="true"/>
-</session>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;ztemp1.comp&apos; to &apos;Threading_CompletableFuture&apos;&#x0D;&#x0A;- Original project: &apos;ztemp1&apos;&#x0D;&#x0A;- Original element: &apos;ztemp1.comp&apos;&#x0D;&#x0A;- Renamed element: &apos;ztemp1.Threading_CompletableFuture&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;comp&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ztemp1{comp.java[comp" matchStrategy="1" name="Threading_CompletableFuture" qualified="false" references="true" similarDeclarations="false" stamp="1694097269214" textual="false" version="1.0"/>
-</session>

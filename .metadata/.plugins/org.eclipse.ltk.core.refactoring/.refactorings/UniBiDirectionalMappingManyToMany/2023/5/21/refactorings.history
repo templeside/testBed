@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy 3 elements to &apos;BankingApp/src/main/java/com.java&apos;&#x0D;&#x0A;- Original project: &apos;UniBiDirectionalMappingManyToMany&apos;&#x0D;&#x0A;- Destination element: &apos;BankingApp/src/main/java/com.java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     com.java.Certification.java&#x0D;&#x0A;     com.java.Student.java&#x0D;&#x0A;     com.java.TestMain.java" description="Copy compilation units" destination="=BankingApp/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.java" element1="/src&lt;com.java{Certification.java" element2="/src&lt;com.java{Student.java" element3="/src&lt;com.java{TestMain.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1684848583232" units="3" version="1.0"/>
-</session>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;UniBiDirectionalMapping-ORM&apos; to &apos;UniBiDirectionalMapping-ORM-hibernate&apos;" description="Rename resource &apos;UniBiDirectionalMapping-ORM&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/UniBiDirectionalMapping-ORM" name="UniBiDirectionalMapping-ORM-hibernate" stamp="1685448648891" updateReferences="true"/>
-</session>
